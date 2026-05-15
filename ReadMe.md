@@ -2,20 +2,20 @@
 
 <p align="center">
   <b>CS Student · Fullstack & AI Engineer · Open to Internships</b><br/>
-  Third-year Computer Science student building at the intersection of web engineering and machine learning.<br/>
+  Third-year CS student building at the intersection of web engineering and machine learning.<br/>
   I learn by shipping — real projects, real tradeoffs, real deployments.
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sakshi-shukla-2084ba313">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:sakshishukla1008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sakshi-shukla01&style=flat&color=6366f1" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Sakshi-shukla01&style=flat&color=6366f1"/>
 </p>
 
 ---
@@ -39,46 +39,46 @@
 ### 🤖 [UPI Fraud Detection System](https://github.com/Sakshi-shukla01/creditcard) · [Live Demo](https://creditcard-liart.vercel.app)
 > Real-time ML fraud detection trained on 284,807 transactions — deployed with full CI/CD.
 
-- **AUC 0.98 · Recall 88.78%** on fraud cases using XGBoost with hyperparameter tuning
+- **AUC 0.98 · Recall 88.78%** using XGBoost with hyperparameter tuning
 - **SMOTE oversampling** to resolve 0.17% fraud-rate class imbalance
-- **MLflow** experiment tracking for AUC, recall, precision, and F1 across model versions
-- **Docker + GitHub Actions CI/CD** pipeline: auto-tests ML model and deploys on every push
+- **MLflow** experiment tracking for AUC, recall, precision, F1
+- **Docker + GitHub Actions CI/CD** pipeline with auto-deploy on push
 
 `Python` `XGBoost` `SMOTE` `Flask` `React.js` `MongoDB Atlas` `MLflow` `Docker` `GitHub Actions`
 
 ---
 
 ### 🎬 [SaaS Movie Booking Platform](https://github.com/Sakshi-shukla01/ticket-movie)
-> Full-stack booking system with real-time seat locking, payment processing, and role-based admin control.
+> Full-stack booking system with real-time seat locking, Stripe payments, and Clerk RBAC.
 
-- **Atomic MongoDB locking** to prevent race conditions under high-concurrency — 100% booking accuracy
-- **Stripe Checkout + Webhooks** for real-time payment confirmation and transactional integrity
-- **Inngest** for async background jobs: automated seat-release and state reconciliation
-- **Clerk RBAC + JWT** for secure, role-gated admin dashboard
+- **Atomic MongoDB locking** — 100% booking accuracy under high concurrency
+- **Stripe Checkout + Webhooks** for real-time payment confirmation
+- **Inngest** async background jobs for seat-release workflows
+- **Clerk RBAC + JWT** for role-gated admin dashboard
 
 `React.js` `Node.js` `Express.js` `MongoDB` `Stripe` `Inngest` `Clerk` `JWT`
 
 ---
 
 ### 📚 [Interactive E-Learning Dashboard](https://github.com/Sakshi-shukla01/e-learning-dashboard)
-> Personalized learning platform with ML-powered course recommendations and AWS-backed content delivery.
+> Personalized learning with ML-powered recommendations and AWS content delivery.
 
-- **XGBoost recommendation engine** analyzing user interaction patterns for personalized learning paths
+- **XGBoost recommendation engine** for personalized learning paths
 - **AWS S3** for scalable PDF and video content streaming
-- **30% reduction in query latency** via optimized MongoDB aggregation pipelines and compound indexing
+- **30% query latency reduction** via MongoDB aggregation + compound indexing
 
-`React.js` `Node.js` `Express.js` `Flask` `XGBoost` `MongoDB` `AWS S3`
+`React.js` `Node.js` `Flask` `XGBoost` `MongoDB` `AWS S3`
 
 ---
 
 ### 💍 [Virtual Jewelry Try-On Platform](https://github.com/Sakshi-shukla01/sakshigold)
-> AR-powered e-commerce with real-time jewelry overlay on live camera feed.
+> AR e-commerce with real-time Face Mesh overlay and live gold pricing.
 
-- **MediaPipe Face Mesh + Canvas API** for real-time facial/hand landmark detection and geometric overlay
-- **Live gold pricing engine** using GoldAPI to compute real-time product valuations by weight
-- Full e-commerce flow using **PHP + MySQL** with normalized schema design
+- **MediaPipe Face Mesh + Canvas API** for real-time geometric jewelry overlay
+- **Live gold pricing engine** via GoldAPI for real-time valuation by weight
+- Full e-commerce flow using **PHP + MySQL** with normalized schema
 
-`PHP` `MySQL` `JavaScript` `MediaPipe Face Mesh` `Canvas API` `GoldAPI`
+`PHP` `MySQL` `JavaScript` `MediaPipe` `Canvas API` `GoldAPI`
 
 ---
 
@@ -86,9 +86,9 @@
 
 | Achievement | Details |
 |---|---|
-| **Smart India Hackathon (SIH)** | Built a digital tourism platform for Jharkhand heritage sites · [Certificate](https://drive.google.com/file/d/1pmrNRFLxXOyRUCfudqhxgn7WI4o8a4of/view) |
+| **Smart India Hackathon** | Digital tourism platform for Jharkhand heritage sites · [Certificate](https://drive.google.com/file/d/1pmrNRFLxXOyRUCfudqhxgn7WI4o8a4of/view) |
 | **Tata Crucible Quiz** | Cleared Prelims of the national Business & Tech Quiz · [Certificate](https://drive.google.com/file/d/1uqCCD4jPy9BTCFwUJeuC7b8tD_nbx5en/view) |
-| **Young Turks — Naukri** | Recognized participant in career excellence and talent initiative · [Certificate](https://drive.google.com/file/d/1Wv5oQ2gnqLdabfNOnjmlh2j9IUnkUdYj/view) |
+| **Young Turks — Naukri** | Recognized in career excellence and talent initiative · [Certificate](https://drive.google.com/file/d/1Wv5oQ2gnqLdabfNOnjmlh2j9IUnkUdYj/view) |
 
 ---
 
@@ -97,7 +97,7 @@
 | Certification | Issuer | Year |
 |---|---|---|
 | [Generative AI Professional](https://drive.google.com/file/d/14SW4kH3pWkYi5-WgcyEoKcqn-_Ycsmsb/view) | Oracle Cloud Infrastructure | 2025 |
-| [Cloud Infrastructure Foundations](https://drive.google.com/file/d/1feRSlpRmVZ5gVCY77rYMe_r5VFbzUzP1/view) | Oracle Cloud Infrastructure | — |
+| [OCI Foundations Associate](https://drive.google.com/file/d/1feRSlpRmVZ5gVCY77rYMe_r5VFbzUzP1/view) | Oracle Cloud Infrastructure | — |
 | [Cloud Computing](https://drive.google.com/file/d/1Lhzb-iyaj9BOtXhqTnIqw72aNs23XBUf/view) | NPTEL | 2025 |
 | [Database Management Systems](https://drive.google.com/file/d/1VedQIFYsLGgcUtfgecMl3ocxRjpW1SgS/view) | NPTEL | 2024 |
 | [Java Programming Proficiency](https://drive.google.com/file/d/1oDX4y_ilF4ZCSOq8XE9nAYj3w4WJ5hLW/view) | IIT Bombay (Spoken Tutorial) | — |
@@ -139,17 +139,17 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&hide_border=true&theme=default&hide=contribs&rank_icon=github" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&hide_border=true&theme=default&hide=contribs&rank_icon=github" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&hide_border=true&theme=default" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sakshi-shukla01&hide_border=true&theme=default" alt="GitHub streak" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Sakshi-shukla01&hide_border=true&theme=default" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-shukla01&hide_border=true&theme=minimal" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-shukla01&hide_border=true&theme=minimal"/>
 </p>
 
 ---
