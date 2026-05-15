@@ -28,19 +28,13 @@
 
 ---
 
-## 🚀 Featured projects
+## 🏆 GitHub trophies
 
-### 🎬 [SaaS Movie Booking Platform](https://github.com/Sakshi-shukla01/ticket-movie)
-> Full-stack booking system with real-time seat locking, payment processing, and role-based admin control.
-
-- **Atomic MongoDB locking** to prevent race conditions under high-concurrency — 100% booking accuracy
-- **Stripe Checkout + Webhooks** for real-time payment confirmation and transactional integrity
-- **Inngest** for async background jobs: automated seat-release and state reconciliation
-- **Clerk RBAC + JWT** for secure, role-gated admin dashboard
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Stripe` `Inngest` `Clerk` `JWT`
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sakshi-shukla01&theme=flat&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
+
+## 🚀 Featured projects
 
 ### 🤖 [UPI Fraud Detection System](https://github.com/Sakshi-shukla01/creditcard) · [Live Demo](https://creditcard-liart.vercel.app)
 > Real-time ML fraud detection trained on 284,807 transactions — deployed with full CI/CD.
@@ -51,6 +45,18 @@
 - **Docker + GitHub Actions CI/CD** pipeline: auto-tests ML model and deploys on every push
 
 `Python` `XGBoost` `SMOTE` `Flask` `React.js` `MongoDB Atlas` `MLflow` `Docker` `GitHub Actions`
+
+---
+
+### 🎬 [SaaS Movie Booking Platform](https://github.com/Sakshi-shukla01/ticket-movie)
+> Full-stack booking system with real-time seat locking, payment processing, and role-based admin control.
+
+- **Atomic MongoDB locking** to prevent race conditions under high-concurrency — 100% booking accuracy
+- **Stripe Checkout + Webhooks** for real-time payment confirmation and transactional integrity
+- **Inngest** for async background jobs: automated seat-release and state reconciliation
+- **Clerk RBAC + JWT** for secure, role-gated admin dashboard
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Stripe` `Inngest` `Clerk` `JWT`
 
 ---
 
@@ -66,17 +72,17 @@
 ---
 
 ### 💍 [Virtual Jewelry Try-On Platform](https://github.com/Sakshi-shukla01/sakshigold)
-> AR-powered e-commerce platform with real-time jewelry overlay on live camera feed.
+> AR-powered e-commerce with real-time jewelry overlay on live camera feed.
 
 - **MediaPipe Face Mesh + Canvas API** for real-time facial/hand landmark detection and geometric overlay
 - **Live gold pricing engine** using GoldAPI to compute real-time product valuations by weight
-- Full e-commerce flow: Login, Cart, Checkout using **PHP + MySQL** with normalized schema design
+- Full e-commerce flow using **PHP + MySQL** with normalized schema design
 
 `PHP` `MySQL` `JavaScript` `MediaPipe Face Mesh` `Canvas API` `GoldAPI`
 
 ---
 
-## 🏆 Achievements
+## 🏅 Achievements
 
 | Achievement | Details |
 |---|---|
@@ -91,7 +97,7 @@
 | Certification | Issuer | Year |
 |---|---|---|
 | [Generative AI Professional](https://drive.google.com/file/d/14SW4kH3pWkYi5-WgcyEoKcqn-_Ycsmsb/view) | Oracle Cloud Infrastructure | 2025 |
-| [Cloud Infrastructure Foundations Associate](https://drive.google.com/file/d/1feRSlpRmVZ5gVCY77rYMe_r5VFbzUzP1/view) | Oracle Cloud Infrastructure | — |
+| [Cloud Infrastructure Foundations](https://drive.google.com/file/d/1feRSlpRmVZ5gVCY77rYMe_r5VFbzUzP1/view) | Oracle Cloud Infrastructure | — |
 | [Cloud Computing](https://drive.google.com/file/d/1Lhzb-iyaj9BOtXhqTnIqw72aNs23XBUf/view) | NPTEL | 2025 |
 | [Database Management Systems](https://drive.google.com/file/d/1VedQIFYsLGgcUtfgecMl3ocxRjpW1SgS/view) | NPTEL | 2024 |
 | [Java Programming Proficiency](https://drive.google.com/file/d/1oDX4y_ilF4ZCSOq8XE9nAYj3w4WJ5hLW/view) | IIT Bombay (Spoken Tutorial) | — |
@@ -133,7 +139,7 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&hide_border=true&theme=default&hide=contribs&rank_icon=github" alt="Sakshi's GitHub stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&hide_border=true&theme=default&hide=contribs&rank_icon=github" alt="GitHub stats" height="160"/>
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160"/>
 </p>
