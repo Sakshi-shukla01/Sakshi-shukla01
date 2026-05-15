@@ -1,22 +1,154 @@
-# 💫 About Me:
-Hi, I'm Sakshi 👋<br><br>I'm a third-year Computer Science student driven by curiosity about how technology can solve real-world problems. I enjoy building projects to explore modern web technologies, experimenting with AI-powered features, and learning how scalable systems are designed and deployed.<br><br>I believe the best way to learn is by building, experimenting, and continuously improving through real projects.
+<h1 align="center">Hi, I'm Sakshi 👋</h1>
 
+<p align="center">
+  <b>CS Student · Fullstack & AI Engineer · Open to Internships</b><br/>
+  Third-year Computer Science student building at the intersection of web engineering and machine learning.<br/>
+  I learn by shipping — real projects, real tradeoffs, real deployments.
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tN7HmDsr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshishukla1008/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshishukla1008@gmail.com)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sakshi-shukla01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://linkedin.com/in/sakshi-shukla-2084ba313">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sakshishukla1008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Sakshi-shukla01&style=flat&color=6366f1" alt="Profile views"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sakshi-shukla01&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🔨 What I'm working on
+
+- Deepening knowledge in **distributed systems** and **MLOps pipelines**
+- Exploring **LangChain** and retrieval-augmented generation (RAG) patterns
+- Open to **internship and part-time engineering roles**
+
+---
+
+## 🚀 Featured projects
+
+### 🎬 [SaaS Movie Booking Platform](https://github.com/Sakshi-shukla01/ticket-movie)
+> Full-stack booking system with real-time seat locking, payment processing, and role-based admin control.
+
+- **Atomic MongoDB locking** to prevent race conditions under high-concurrency — 100% booking accuracy
+- **Stripe Checkout + Webhooks** for real-time payment confirmation and transactional integrity
+- **Inngest** for async background jobs: automated seat-release and state reconciliation
+- **Clerk RBAC + JWT** for secure, role-gated admin dashboard
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Stripe` `Inngest` `Clerk` `JWT`
+
+---
+
+### 🤖 [UPI Fraud Detection System](https://github.com/Sakshi-shukla01/creditcard) · [Live Demo](https://creditcard-liart.vercel.app)
+> Real-time ML fraud detection trained on 284,807 transactions — deployed with full CI/CD.
+
+- **AUC 0.98 · Recall 88.78%** on fraud cases using XGBoost with hyperparameter tuning
+- **SMOTE oversampling** to resolve 0.17% fraud-rate class imbalance
+- **MLflow** experiment tracking for AUC, recall, precision, and F1 across model versions
+- **Docker + GitHub Actions CI/CD** pipeline: auto-tests ML model and deploys on every push
+
+`Python` `XGBoost` `SMOTE` `Flask` `React.js` `MongoDB Atlas` `MLflow` `Docker` `GitHub Actions`
+
+---
+
+### 📚 [Interactive E-Learning Dashboard](https://github.com/Sakshi-shukla01/e-learning-dashboard)
+> Personalized learning platform with ML-powered course recommendations and AWS-backed content delivery.
+
+- **XGBoost recommendation engine** analyzing user interaction patterns for personalized learning paths
+- **AWS S3** for scalable PDF and video content streaming
+- **30% reduction in query latency** via optimized MongoDB aggregation pipelines and compound indexing
+
+`React.js` `Node.js` `Express.js` `Flask` `XGBoost` `MongoDB` `AWS S3`
+
+---
+
+### 💍 [Virtual Jewelry Try-On Platform](https://github.com/Sakshi-shukla01/sakshigold)
+> AR-powered e-commerce platform with real-time jewelry overlay on live camera feed.
+
+- **MediaPipe Face Mesh + Canvas API** for real-time facial/hand landmark detection and geometric overlay
+- **Live gold pricing engine** using GoldAPI to compute real-time product valuations by weight
+- Full e-commerce flow: Login, Cart, Checkout using **PHP + MySQL** with normalized schema design
+
+`PHP` `MySQL` `JavaScript` `MediaPipe Face Mesh` `Canvas API` `GoldAPI`
+
+---
+
+## 🏆 Achievements
+
+| Achievement | Details |
+|---|---|
+| **Smart India Hackathon (SIH)** | Built a digital tourism platform for Jharkhand heritage sites · [Certificate](https://drive.google.com/file/d/1pmrNRFLxXOyRUCfudqhxgn7WI4o8a4of/view) |
+| **Tata Crucible Quiz** | Cleared Prelims of the national Business & Tech Quiz · [Certificate](https://drive.google.com/file/d/1uqCCD4jPy9BTCFwUJeuC7b8tD_nbx5en/view) |
+| **Young Turks — Naukri** | Recognized participant in career excellence and talent initiative · [Certificate](https://drive.google.com/file/d/1Wv5oQ2gnqLdabfNOnjmlh2j9IUnkUdYj/view) |
+
+---
+
+## 📜 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| [Generative AI Professional](https://drive.google.com/file/d/14SW4kH3pWkYi5-WgcyEoKcqn-_Ycsmsb/view) | Oracle Cloud Infrastructure | 2025 |
+| [Cloud Infrastructure Foundations Associate](https://drive.google.com/file/d/1feRSlpRmVZ5gVCY77rYMe_r5VFbzUzP1/view) | Oracle Cloud Infrastructure | — |
+| [Cloud Computing](https://drive.google.com/file/d/1Lhzb-iyaj9BOtXhqTnIqw72aNs23XBUf/view) | NPTEL | 2025 |
+| [Database Management Systems](https://drive.google.com/file/d/1VedQIFYsLGgcUtfgecMl3ocxRjpW1SgS/view) | NPTEL | 2024 |
+| [Java Programming Proficiency](https://drive.google.com/file/d/1oDX4y_ilF4ZCSOq8XE9nAYj3w4WJ5hLW/view) | IIT Bombay (Spoken Tutorial) | — |
+
+---
+
+## 🛠 Tech stack
+
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend & DB**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**ML / AI**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+
+**DevOps & Cloud**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&hide_border=true&theme=default&hide=contribs&rank_icon=github" alt="Sakshi's GitHub stats" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&hide_border=true&theme=default" alt="Top languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sakshi-shukla01&hide_border=true&theme=default" alt="GitHub streak" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-shukla01&hide_border=true&theme=minimal" alt="Contribution graph"/>
+</p>
+
+---
+
+<p align="center">
+  <b>Open to internships · remote roles · interesting problems</b><br/>
+  <a href="mailto:sakshishukla1008@gmail.com">sakshishukla1008@gmail.com</a> · <a href="https://linkedin.com/in/sakshi-shukla-2084ba313">LinkedIn</a>
+</p>
