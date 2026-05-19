@@ -96,7 +96,6 @@
 
 | Certification | Issuer | Year |
 |---|---|---|
-
 | [OCI Foundations Associate](https://drive.google.com/file/d/1feRSlpRmVZ5gVCY77rYMe_r5VFbzUzP1/view) | Oracle Cloud Infrastructure | — |
 | [Cloud Computing](https://drive.google.com/file/d/1Lhzb-iyaj9BOtXhqTnIqw72aNs23XBUf/view) | NPTEL | 2025 |
 | [Database Management Systems](https://drive.google.com/file/d/1VedQIFYsLGgcUtfgecMl3ocxRjpW1SgS/view) | NPTEL | 2024 |
