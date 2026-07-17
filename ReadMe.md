@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20Sakshi%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%26%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+# Hi, I'm Sakshi 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third-year+CS+student+%7C+ML+%2B+Web+Engineering;Currently+exploring+LangChain+%2B+RAG;Open+to+Internships+%26+Remote+Roles;I+learn+by+shipping+%E2%80%94+real+projects%2C+real+tradeoffs" alt="Typing SVG" />
 
-<br/><br/>
+**Fullstack & AI Engineer · Building things that ship**
+
+<br/>
 
 <a href="https://linkedin.com/in/sakshi-shukla-2084ba313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/SakshiShuk17073"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
@@ -16,7 +18,7 @@
 
 </div>
 
-<br/>
+---
 
 ## 🔨 Currently
 
@@ -27,7 +29,7 @@ status: Open to internships & part-time engineering roles
 fun_fact: I'd rather deploy something broken than leave it in a notebook
 ```
 
-<br/>
+---
 
 ## 🚀 Featured projects
 
@@ -91,7 +93,7 @@ AR e-commerce with real-time Face Mesh overlay.
 </tr>
 </table>
 
-<br/>
+---
 
 ## 🛠 Tech stack
 
@@ -101,14 +103,14 @@ AR e-commerce with real-time Face Mesh overlay.
 
 </div>
 
-<br/>
+---
 
 ## 📊 GitHub stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs&rank_icon=github&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs&cache_seconds=1800" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" height="165"/>
 
 <br/>
 
@@ -116,7 +118,9 @@ AR e-commerce with real-time Face Mesh overlay.
 
 </div>
 
-<br/>
+> **If the stats cards above ever show blank or an error:** they're served by a free shared instance (`github-readme-stats.vercel.app`) that occasionally hits its rate limit — it's not your README. It usually recovers within an hour. If it keeps happening, the permanent fix is deploying your own free copy in one click via the ["Deploy your own instance"](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) button on that project's GitHub page, then swapping the domain in the image URLs above for your own.
+
+---
 
 ## 🏆 Trophies
 
@@ -126,7 +130,7 @@ AR e-commerce with real-time Face Mesh overlay.
 
 </div>
 
-<br/>
+---
 
 ## 🏅 Achievements & Certifications
 
@@ -155,11 +159,9 @@ AR e-commerce with real-time Face Mesh overlay.
 
 </details>
 
-<br/>
+---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 **Open to internships · remote roles · interesting problems**
 
