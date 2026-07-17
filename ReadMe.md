@@ -99,7 +99,52 @@ AR e-commerce with real-time Face Mesh overlay.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,react,nextjs,tailwind,nodejs,express,flask,mongodb,postgres,docker,aws,githubactions&perline=8"/>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,java&perline=8"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+
+<br/><br/>
+
+**Backend & API**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,express&perline=8"/>
+<br/>
+<sub>REST APIs · Client-Server Architecture</sub>
+
+<br/><br/>
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&perline=8"/>
+
+<br/><br/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&perline=8"/>
+<br/>
+<sub>Schema design · Aggregation · Indexing · Cloud DBs</sub>
+
+<br/><br/>
+
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions&perline=8"/>
+
+<br/><br/>
+
+**Testing**
+<br/>
+<img src="https://skillicons.dev/icons?i=jest&perline=8"/>
+<br/>
+<sub>Jest · Supertest · Unit & Integration Testing</sub>
+
+<br/><br/>
+
+**Core CS & Practices**
+<br/>
+<sub>OOP · Data Structures & Algorithms · SDLC · Operating Systems · Computer Networks · Agile/Scrum · Git/GitHub Code Review Workflows</sub>
 
 </div>
 
