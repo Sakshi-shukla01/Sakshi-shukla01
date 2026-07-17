@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20I'm%20Sakshi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%26%20AI%20Engineer%20%C2%B7%20Building%20things%20that%20ship&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20Sakshi%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%26%20AI%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third-year+CS+student+%7C+ML+%2B+Web+Engineering;Currently+exploring+LangChain+%2B+RAG;Open+to+Internships+%26+Remote+Roles;I+learn+by+shipping+%E2%80%94+real+projects%2C+real+tradeoffs" alt="Typing SVG" />
 
-<br/>
+<br/><br/>
 
 <a href="https://linkedin.com/in/sakshi-shukla-2084ba313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://x.com/SakshiShuk17073"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="mailto:sakshishukla1008@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Sakshi-shukla01&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
 
@@ -108,9 +110,9 @@ AR e-commerce with real-time Face Mesh overlay.
 <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs&rank_icon=github&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=Sakshi-shukla01&hide_border=true&theme=tokyonight" height="165"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-shukla01&hide_border=true&theme=tokyo-night&bg_color=1a1b27"/>
+<img src="https://streak-stats.demolab.com?user=Sakshi-shukla01&hide_border=true&theme=tokyonight" height="165"/>
 
 </div>
 
@@ -155,19 +157,9 @@ AR e-commerce with real-time Face Mesh overlay.
 
 <br/>
 
-## 💬 Random dev wisdom
-
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 **Open to internships · remote roles · interesting problems**
 
