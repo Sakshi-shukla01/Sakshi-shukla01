@@ -148,22 +148,6 @@ AR e-commerce with real-time Face Mesh overlay.
 
 </div>
 
----
-
-## 📊 GitHub stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs&cache_seconds=1800" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=1800" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Sakshi-shukla01&hide_border=true&theme=tokyonight" height="165"/>
-
-</div>
-
-> **If the stats cards above ever show blank or an error:** they're served by a free shared instance (`github-readme-stats.vercel.app`) that occasionally hits its rate limit — it's not your README. It usually recovers within an hour. If it keeps happening, the permanent fix is deploying your own free copy in one click via the ["Deploy your own instance"](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) button on that project's GitHub page, then swapping the domain in the image URLs above for your own.
 
 ---
 
