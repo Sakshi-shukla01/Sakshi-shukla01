@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Sakshi 👋</h1>
 
 <p align="center">
-  <b>CS Student · Fullstack & AI Engineer · Open to Internships</b><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=CS+Student+%C2%B7+Fullstack+%26+AI+Engineer;Building+ML+pipelines+%2B+scalable+web+apps;Open+to+Internships+%26+Remote+Roles;I+learn+by+shipping+%E2%80%94+real+projects%2C+real+tradeoffs" alt="Typing SVG" />
+</p>
+
+<p align="center">
   Third-year CS student building at the intersection of web engineering and machine learning.<br/>
   I learn by shipping — real projects, real tradeoffs, real deployments.
 </p>
@@ -9,6 +12,10 @@
 <p align="center">
   <a href="https://linkedin.com/in/sakshi-shukla-2084ba313">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/SakshiShuk17073">
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
   </a>
   &nbsp;
   <a href="mailto:sakshishukla1008@gmail.com">
@@ -153,7 +160,19 @@
 
 ---
 
+## 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sakshi-shukla01/Sakshi-shukla01/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+> **Setup note:** the snake graphic needs a one-time GitHub Action in this repo (`Sakshi-shukla01/Sakshi-shukla01`). I've included the workflow file below — add it and the animation will generate itself automatically every day.
+
+---
+
 <p align="center">
   <b>Open to internships · remote roles · interesting problems</b><br/>
-  <a href="mailto:sakshishukla1008@gmail.com">sakshishukla1008@gmail.com</a> · <a href="https://linkedin.com/in/sakshi-shukla-2084ba313">LinkedIn</a>
+  <a href="mailto:sakshishukla1008@gmail.com">sakshishukla1008@gmail.com</a> ·
+  <a href="https://linkedin.com/in/sakshi-shukla-2084ba313">LinkedIn</a> ·
+  <a href="https://x.com/SakshiShuk17073">X / Twitter</a>
 </p>
