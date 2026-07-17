@@ -1,95 +1,136 @@
-<h1 align="center">Hi, I'm Sakshi 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=CS+Student+%C2%B7+Fullstack+%26+AI+Engineer;Building+ML+pipelines+%2B+scalable+web+apps;Open+to+Internships+%26+Remote+Roles;I+learn+by+shipping+%E2%80%94+real+projects%2C+real+tradeoffs" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20I'm%20Sakshi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20%26%20AI%20Engineer%20%C2%B7%20Building%20things%20that%20ship&descAlignY=55&descSize=18"/>
 
-<p align="center">
-  Third-year CS student building at the intersection of web engineering and machine learning.<br/>
-  I learn by shipping — real projects, real tradeoffs, real deployments.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third-year+CS+student+%7C+ML+%2B+Web+Engineering;Currently+exploring+LangChain+%2B+RAG;Open+to+Internships+%26+Remote+Roles;I+learn+by+shipping+%E2%80%94+real+projects%2C+real+tradeoffs" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/sakshi-shukla-2084ba313">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://x.com/SakshiShuk17073">
-    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:sakshishukla1008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sakshi-shukla01&style=flat&color=6366f1"/>
-</p>
+<br/>
 
----
+<a href="https://linkedin.com/in/sakshi-shukla-2084ba313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/SakshiShuk17073"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="mailto:sakshishukla1008@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## 🔨 What I'm working on
+<img src="https://komarev.com/ghpvc/?username=Sakshi-shukla01&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS"/>
 
-- Deepening knowledge in **distributed systems** and **MLOps pipelines**
-- Exploring **LangChain** and retrieval-augmented generation (RAG) patterns
-- Open to **internship and part-time engineering roles**
+</div>
 
----
+<br/>
 
-## 🏆 GitHub trophies
+## 🔨 Currently
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sakshi-shukla01&theme=flat&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+```yaml
+role: Third-year CS Student
+focus: [Distributed Systems, MLOps Pipelines, RAG with LangChain]
+status: Open to internships & part-time engineering roles
+fun_fact: I'd rather deploy something broken than leave it in a notebook
+```
 
----
+<br/>
 
 ## 🚀 Featured projects
 
-### 🤖 [UPI Fraud Detection System](https://github.com/Sakshi-shukla01/creditcard) · [Live Demo](https://creditcard-liart.vercel.app)
-> Real-time ML fraud detection trained on 284,807 transactions — deployed with full CI/CD.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **AUC 0.98 · Recall 88.78%** using XGBoost with hyperparameter tuning
-- **SMOTE oversampling** to resolve 0.17% fraud-rate class imbalance
-- **MLflow** experiment tracking for AUC, recall, precision, F1
-- **Docker + GitHub Actions CI/CD** pipeline with auto-deploy on push
+### 🤖 [UPI Fraud Detection System](https://github.com/Sakshi-shukla01/creditcard)
+**[Live Demo →](https://creditcard-liart.vercel.app)**
 
-`Python` `XGBoost` `SMOTE` `Flask` `React.js` `MongoDB Atlas` `MLflow` `Docker` `GitHub Actions`
+Real-time ML fraud detection trained on 284,807 transactions, deployed with full CI/CD.
 
----
+- AUC **0.98** · Recall **88.78%** (XGBoost, tuned)
+- SMOTE oversampling for 0.17% fraud-rate imbalance
+- MLflow tracking · Docker + GitHub Actions auto-deploy
+
+`Python` `XGBoost` `Flask` `React` `MongoDB` `Docker`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🎬 [SaaS Movie Booking Platform](https://github.com/Sakshi-shukla01/ticket-movie)
-> Full-stack booking system with real-time seat locking, Stripe payments, and Clerk RBAC.
 
-- **Atomic MongoDB locking** — 100% booking accuracy under high concurrency
-- **Stripe Checkout + Webhooks** for real-time payment confirmation
-- **Inngest** async background jobs for seat-release workflows
-- **Clerk RBAC + JWT** for role-gated admin dashboard
+Full-stack booking system with real-time seat locking and payments.
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Stripe` `Inngest` `Clerk` `JWT`
+- Atomic MongoDB locking → **100%** booking accuracy under concurrency
+- Stripe Checkout + Webhooks for live payment confirmation
+- Inngest background jobs · Clerk RBAC + JWT admin dashboard
 
----
+`React` `Node.js` `Stripe` `Inngest` `Clerk`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 [Interactive E-Learning Dashboard](https://github.com/Sakshi-shukla01/e-learning-dashboard)
-> Personalized learning with ML-powered recommendations and AWS content delivery.
 
-- **XGBoost recommendation engine** for personalized learning paths
-- **AWS S3** for scalable PDF and video content streaming
-- **30% query latency reduction** via MongoDB aggregation + compound indexing
+Personalized learning with ML-powered recommendations.
 
-`React.js` `Node.js` `Flask` `XGBoost` `MongoDB` `AWS S3`
+- XGBoost recommendation engine for learning paths
+- AWS S3 for scalable PDF/video streaming
+- **30% query latency reduction** via compound indexing
 
----
+`React` `Flask` `XGBoost` `AWS S3`
+
+</td>
+<td width="50%" valign="top">
 
 ### 💍 [Virtual Jewelry Try-On Platform](https://github.com/Sakshi-shukla01/sakshigold)
-> AR e-commerce with real-time Face Mesh overlay and live gold pricing.
 
-- **MediaPipe Face Mesh + Canvas API** for real-time geometric jewelry overlay
-- **Live gold pricing engine** via GoldAPI for real-time valuation by weight
-- Full e-commerce flow using **PHP + MySQL** with normalized schema
+AR e-commerce with real-time Face Mesh overlay.
 
-`PHP` `MySQL` `JavaScript` `MediaPipe` `Canvas API` `GoldAPI`
+- MediaPipe Face Mesh + Canvas API geometric overlay
+- Live gold pricing engine via GoldAPI
+- Full PHP + MySQL e-commerce flow
 
----
+`PHP` `MySQL` `MediaPipe` `GoldAPI`
 
-## 🏅 Achievements
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠 Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,react,nextjs,tailwind,nodejs,express,flask,mongodb,postgres,docker,aws,githubactions&perline=8"/>
+
+</div>
+
+<br/>
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&hide_border=true&theme=tokyonight&hide=contribs&rank_icon=github&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Sakshi-shukla01&hide_border=true&theme=tokyonight" height="165"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-shukla01&hide_border=true&theme=tokyo-night&bg_color=1a1b27"/>
+
+</div>
+
+<br/>
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sakshi-shukla01&theme=algolia&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+## 🏅 Achievements & Certifications
+
+<details>
+<summary><b>🏆 Achievements — click to expand</b></summary>
+<br/>
 
 | Achievement | Details |
 |---|---|
@@ -97,9 +138,11 @@
 | **Tata Crucible Quiz** | Cleared Prelims of the national Business & Tech Quiz · [Certificate](https://drive.google.com/file/d/1uqCCD4jPy9BTCFwUJeuC7b8tD_nbx5en/view) |
 | **Young Turks — Naukri** | Recognized in career excellence and talent initiative · [Certificate](https://drive.google.com/file/d/1Wv5oQ2gnqLdabfNOnjmlh2j9IUnkUdYj/view) |
 
----
+</details>
 
-## 📜 Certifications
+<details>
+<summary><b>📜 Certifications — click to expand</b></summary>
+<br/>
 
 | Certification | Issuer | Year |
 |---|---|---|
@@ -108,71 +151,26 @@
 | [Database Management Systems](https://drive.google.com/file/d/1VedQIFYsLGgcUtfgecMl3ocxRjpW1SgS/view) | NPTEL | 2024 |
 | [Java Programming Proficiency](https://drive.google.com/file/d/1oDX4y_ilF4ZCSOq8XE9nAYj3w4WJ5hLW/view) | IIT Bombay (Spoken Tutorial) | — |
 
----
+</details>
 
-## 🛠 Tech stack
+<br/>
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+## 💬 Random dev wisdom
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+<div align="center">
 
-**Backend & DB**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-**ML / AI**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
+</div>
 
-**DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+<br/>
 
----
+<div align="center">
 
-## 📊 GitHub stats
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&hide_border=true&theme=default&hide=contribs&rank_icon=github" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&hide_border=true&theme=default" height="160"/>
-</p>
+**Open to internships · remote roles · interesting problems**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sakshi-shukla01&hide_border=true&theme=default" height="150"/>
-</p>
+[sakshishukla1008@gmail.com](mailto:sakshishukla1008@gmail.com) · [LinkedIn](https://linkedin.com/in/sakshi-shukla-2084ba313) · [X / Twitter](https://x.com/SakshiShuk17073)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-shukla01&hide_border=true&theme=minimal"/>
-</p>
-
----
-
-## 🐍 Contribution snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sakshi-shukla01/Sakshi-shukla01/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> **Setup note:** the snake graphic needs a one-time GitHub Action in this repo (`Sakshi-shukla01/Sakshi-shukla01`). I've included the workflow file below — add it and the animation will generate itself automatically every day.
-
----
-
-<p align="center">
-  <b>Open to internships · remote roles · interesting problems</b><br/>
-  <a href="mailto:sakshishukla1008@gmail.com">sakshishukla1008@gmail.com</a> ·
-  <a href="https://linkedin.com/in/sakshi-shukla-2084ba313">LinkedIn</a> ·
-  <a href="https://x.com/SakshiShuk17073">X / Twitter</a>
-</p>
+</div>
