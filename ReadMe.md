@@ -2,7 +2,7 @@
 
 # Hi, I'm Sakshi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third-year+CS+student+%7C+ML+%2B+Web+Engineering;Research+Intern+%40+ARDE%2C+DRDO;Currently+exploring+LangChain+%2B+RAG;Open+to+Internships+%26+Remote+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=ML+%2B+Web+Engineering;Research+Intern+%40+ARDE%2C+DRDO;Currently+exploring+LangChain+%2B+RAG;Open+to+Internships+%26+Remote+Roles" alt="Typing SVG" />
 
 **Fullstack & AI Engineer · Building things that ship**
 
@@ -24,7 +24,6 @@
 
 ```yaml
 role: Research Intern @ ARDE, DRDO (Aug 2026 – Present)
-study: Third-year CS Student
 focus: [Distributed Systems, MLOps Pipelines, RAG with LangChain]
 status: Open to internships & part-time engineering roles
 fun_fact: I'd rather deploy something broken than leave it in a notebook
@@ -143,13 +142,21 @@ AR e-commerce with real-time Face Mesh overlay.
 
 ---
 
-## 🏆 Trophies
+## ⭕ Contribution rings — live
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sakshi-shukla01&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sakshi-shukla01&theme=tokyonight"/>
+<img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sakshi-shukla01&theme=tokyonight"/>
+
+<br/>
+
+<img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sakshi-shukla01&theme=tokyonight"/>
+<img width="410" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sakshi-shukla01&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
+
+> The ring charts above show live totals — stars earned, total commits, PRs, issues, and repos — plus a circular breakdown of your most-used languages by commits. All pulled fresh from the GitHub API each time your profile loads.
 
 ---
 
