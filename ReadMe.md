@@ -2,7 +2,7 @@
 
 # Hi, I'm Sakshi 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third-year+CS+student+%7C+ML+%2B+Web+Engineering;Currently+exploring+LangChain+%2B+RAG;Open+to+Internships+%26+Remote+Roles;I+learn+by+shipping+%E2%80%94+real+projects%2C+real+tradeoffs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Third-year+CS+student+%7C+ML+%2B+Web+Engineering;Research+Intern+%40+ARDE%2C+DRDO;Currently+exploring+LangChain+%2B+RAG;Open+to+Internships+%26+Remote+Roles" alt="Typing SVG" />
 
 **Fullstack & AI Engineer · Building things that ship**
 
@@ -23,11 +23,37 @@
 ## 🔨 Currently
 
 ```yaml
-role: Third-year CS Student
+role: Research Intern @ ARDE, DRDO (Aug 2026 – Present)
+study: Third-year CS Student
 focus: [Distributed Systems, MLOps Pipelines, RAG with LangChain]
 status: Open to internships & part-time engineering roles
 fun_fact: I'd rather deploy something broken than leave it in a notebook
 ```
+
+---
+
+## 🎖️ Research Internship
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🔬 Research Intern — Armament Research & Development Establishment (ARDE), DRDO
+**Aug 2026 – Present**
+
+Contributing as a Research Intern at ARDE, a premier DRDO laboratory under the Ministry of Defence focused on armament and ammunition systems R&D.
+
+<!-- 📝 Add 2-3 specifics here once you can share them, e.g.:
+- Working on [specific project/domain]
+- Applying [ML/software techniques] to [problem area]
+- Tools/tech used: `Python` `MATLAB` `Simulation tools` etc.
+-->
+
+`Research` `DRDO` `Applied Engineering`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -95,6 +121,38 @@ AR e-commerce with real-time Face Mesh overlay.
 
 ---
 
+## 📊 GitHub Stats — live & auto-updating
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-shukla01&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"/>
+
+<br/><br/>
+
+<!-- Contribution activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakshi-shukla01&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff"/>
+
+</div>
+
+> 📈 These cards (stars, total commits, contribution streak, and top languages) pull live from the GitHub API — no manual updates needed, they refresh automatically every time someone views your profile.
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sakshi-shukla01&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 🛠 Tech stack
 
 <div align="center">
@@ -145,17 +203,6 @@ AR e-commerce with real-time Face Mesh overlay.
 **Core CS & Practices**
 <br/>
 <sub>OOP · Data Structures & Algorithms · SDLC · Operating Systems · Computer Networks · Agile/Scrum · Git/GitHub Code Review Workflows</sub>
-
-</div>
-
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sakshi-shukla01&theme=algolia&no-frame=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
