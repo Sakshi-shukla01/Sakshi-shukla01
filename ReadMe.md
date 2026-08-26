@@ -98,12 +98,6 @@ program.
 
 </div>
 
-<div align="center">
-<sub>⚡ Live from the GitHub API on every page load — no hardcoded numbers.</sub>
-</div>
-
-> **On private repos:** GitHub never exposes a private-repo *count* on a public profile — that field only exists behind your own login. The `count_private=true` stat card below folds in private commits/PRs/issues instead, without naming the repos.
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
 ## 📊 Stats, Languages & Streaks
