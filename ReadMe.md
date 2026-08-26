@@ -138,8 +138,6 @@ program.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
-
 # 📌 Pinned Projects
 
 <table>
