@@ -8,7 +8,7 @@
 
 ### Full-Stack & AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=CS+Undergrad+%40+Bharati+Vidyapeeth%2C+CGPA+9.80%2F10;Research+Intern+%40+ARDE%2C+DRDO;400%2B+LeetCode+Problems+Solved;Building+Production-Ready+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=CS+Undergrad+%40+Bharati+Vidyapeeth%2C+CGPA+9.80%2F10;Research+Intern+%40+ARDE%2C+DRDO;ML+%2B+Web+Engineering;Building+Production-Ready+Systems" alt="Typing SVG" />
 
 <br/>
 
@@ -18,10 +18,6 @@
 
 <a href="https://linkedin.com/in/sakshishukla1008">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/sakshishukla10008">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://discord.gg/ywzvat84t">
@@ -50,7 +46,6 @@ to production concurrency bugs.
 - 💻 Ex Full-Stack Developer Intern at **Uptoskill**
 - 🌱 Open Source Contributor, **GirlScript Summer of Code (GSSoC)**
 - 🧠 Exploring **LLMs, LangChain & RAG**
-- 🧮 **400+ problems** solved on LeetCode (52 Hard, 201 Medium)
 - 💬 Chat with the community on **[Discord](https://discord.gg/ywzvat84t)**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
@@ -149,24 +144,34 @@ program.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
-## 🧮 LeetCode
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/sakshishukla10008?theme=dark&font=Fira%20Code&ext=heatmap"/>
-
-</div>
-
-<div align="center">
-<sub>Live LeetCode stats — 400+ problems solved (52 Hard · 201 Medium). Card auto-refreshes on load; double-check the username in the URL matches your exact LeetCode handle.</sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
-
 # 📌 Pinned Projects
 
 <table>
 <tr>
+
+<td width="50%" valign="top">
+
+## 🎧 SoundGuard — Real-Time Acoustic Predictive Maintenance
+
+<a href="https://github.com/Sakshi-shukla01/soundguard">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+Detects and classifies industrial machine faults from live audio using an
+unsupervised autoencoder + CNN classifier, streamed in real time to a React
+dashboard via FastAPI/WebSocket.
+
+**Highlights**
+
+- Autoencoder-based anomaly detection (trained on normal-only sound)
+- Supervised CNN fault classifier
+- Mel-spectrogram preprocessing pipeline
+- Live mic → WebSocket streaming demo
+- Dockerized, multi-service setup
+
+`Python` `PyTorch` `FastAPI` `WebSocket` `React` `Docker`
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -195,6 +200,9 @@ tiers.
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 ## 🎬 QuickShow — SaaS Movie Ticket Booking Platform
@@ -216,30 +224,6 @@ reservation and payment processing.
 
 </td>
 
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-## 📚 Interactive E-Learning Dashboard
-
-<a href="https://github.com/Sakshi-shukla01/e-learning-dashboard">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-End-to-end learning dashboard combining a React.js frontend with a
-Python/Flask backend and ML-driven recommendations.
-
-**Highlights**
-
-- Optimized MongoDB schema — **cut query latency by 30%**
-- XGBoost-based recommendation engine
-- AWS S3 media storage
-
-`React` `Flask` `XGBoost` `MongoDB` `AWS S3`
-
-</td>
-
 <td width="50%" valign="top" align="center">
 
 <br/>
@@ -252,8 +236,8 @@ Python/Flask backend and ML-driven recommendations.
 
 <br/><br/>
 
-<sub>UPI Fraud Detection, SoundGuard, and Virtual Jewelry Try-On are still
-on the profile — just not pinned right now.</sub>
+<sub>UPI Fraud Detection, Interactive E-Learning Dashboard, and Virtual
+Jewelry Try-On are still on the profile — just not pinned right now.</sub>
 
 </td>
 
