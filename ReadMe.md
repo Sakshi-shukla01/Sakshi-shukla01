@@ -46,21 +46,37 @@ software engineering, machine learning, and real-world applications.
 
 ---
 
-## 📊 GitHub
+## 📡 Live GitHub Snapshot
 
 <div align="center">
 
-<a href="https://github.com/Sakshi-shukla01">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSakshi-shukla01&label=Public%20Repos&query=%24.public_repos&color=6366F1&style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/github/followers/Sakshi-shukla01?style=for-the-badge&logo=github&label=Followers"/>
-</a>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSakshi-shukla01&label=Following&query=%24.following&color=6366F1&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSakshi-shukla01&label=Public%20Gists&query=%24.public_gists&color=6366F1&style=for-the-badge&logo=github"/>
 
-<a href="https://github.com/Sakshi-shukla01?tab=repositories">
-<img src="https://img.shields.io/github/stars/Sakshi-shukla01?style=for-the-badge&logo=github&label=Stars"/>
-</a>
+</div>
 
-<a href="https://github.com/Sakshi-shukla01?tab=repositories">
-<img src="https://img.shields.io/badge/Public%20Repositories-Live%20on%20GitHub-6366F1?style=for-the-badge&logo=github"/>
-</a>
+<div align="center">
+<sub>⚡ These badges pull live from the GitHub API every time this page loads, so the numbers stay current on their own.</sub>
+</div>
+
+> **Note on private repos:** GitHub doesn't expose a private-repo count publicly for any account (yours or anyone else's) — that number is only visible to you when logged in, via a personal access token. It can't be shown on a public profile README for privacy reasons.
+
+---
+
+## 📊 GitHub Stats & Languages
+
+<details open>
+<summary><b>Click to collapse / expand</b></summary>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=10" height="170"/>
 
 </div>
 
@@ -68,15 +84,21 @@ software engineering, machine learning, and real-world applications.
 
 <div align="center">
 
-<a href="https://github.com/Sakshi-shukla01?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&rank_icon=github" height="170"/>
-</a>
-
-<a href="https://github.com/Sakshi-shukla01?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" height="170"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-shukla01&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sakshi-shukla01&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8"/>
+
+</div>
+
+> `count_private=true` on the stats card adds your private-repo *contributions* (commits/PRs/issues) into the totals without ever naming or exposing the private repos themselves — that's the closest a public README can get to "every detail."
+
+</details>
 
 <br/>
 
@@ -86,9 +108,7 @@ software engineering, machine learning, and real-world applications.
 
 </div>
 
-> GitHub profile metrics above are generated from GitHub/public repository data.
-> Repository stars and repository counts should be treated as GitHub metrics rather
-> than manually maintained numbers.
+> All figures above are generated live from GitHub/public repository data — treat them as GitHub metrics, not manually maintained numbers.
 
 ---
 
@@ -110,39 +130,66 @@ armament and ammunition systems.
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Pinned Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🤖 UPI Fraud Detection
+## 🎧 SoundGuard — Real-Time Acoustic Predictive Maintenance
 
-<a href="https://github.com/Sakshi-shukla01/creditcard">
+<a href="https://github.com/Sakshi-shukla01/soundguard">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://creditcard-liart.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-6366F1?style=for-the-badge"/>
-</a>
-
-Real-time machine-learning fraud detection system trained on **284,807
-transactions**.
+Detects and classifies industrial machine faults from live audio using an
+unsupervised autoencoder + CNN classifier, streamed in real time to a React
+dashboard via FastAPI/WebSocket.
 
 **Highlights**
 
-- XGBoost fraud classification
-- AUC **0.98**
-- Recall **88.78%**
-- SMOTE for severe class imbalance
-- MLflow experiment tracking
-- Dockerized deployment
-- GitHub Actions CI/CD
+- Autoencoder-based anomaly detection (trained on normal-only sound)
+- Supervised CNN fault classifier
+- Mel-spectrogram preprocessing pipeline
+- Live mic → WebSocket streaming demo
+- Time-to-failure trend heuristic
+- Dockerized, multi-service setup
 
-`Python` `XGBoost` `Flask` `React` `MongoDB` `Docker` `MLflow`
+`Python` `PyTorch` `FastAPI` `WebSocket` `React` `Docker`
 
 </td>
+
+<td width="50%" valign="top">
+
+## ⚡ Grid Fault Localization & RCA Agent
+
+<a href="https://github.com/Sakshi-shukla01/grid-fault-agent">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://sakshi898-grid-fault-agent1.hf.space/docs">
+<img src="https://img.shields.io/badge/Live%20API-6366F1?style=for-the-badge"/>
+</a>
+
+An OpenEnv-compatible reinforcement-learning environment where AI agents
+diagnose power-grid faults in real time, across 3 difficulty tiers (14-bus
+radial to 30-bus mesh).
+
+**Highlights**
+
+- Custom RL environment (reset / step / scenarios API)
+- Deterministic keyword-matching grading — fully reproducible
+- Microservices: env, inference, worker, dashboard
+- Redis pub/sub, MongoDB Atlas, Prometheus + Grafana monitoring
+- Deployed live on Docker + Kubernetes + Hugging Face Spaces
+
+`Python` `FastAPI` `React` `Node.js/Express` `Redis` `MongoDB` `Docker` `Kubernetes`
+
+</td>
+
+</tr>
+<tr>
 
 <td width="50%" valign="top">
 
@@ -159,8 +206,7 @@ reservation and payment processing.
 
 - Real-time seat locking
 - Atomic MongoDB operations
-- Stripe Checkout
-- Stripe webhooks
+- Stripe Checkout + webhooks
 - Inngest background jobs
 - Clerk authentication
 - JWT-based admin dashboard
@@ -169,53 +215,20 @@ reservation and payment processing.
 
 </td>
 
-</tr>
+<td width="50%" valign="top" align="center">
 
-<tr>
+<br/>
 
-<td width="50%" valign="top">
+**Want to see everything else?**
 
-## 📚 E-Learning Dashboard
-
-<a href="https://github.com/Sakshi-shukla01/e-learning-dashboard">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Sakshi-shukla01?tab=repositories">
+<img src="https://img.shields.io/badge/All%20Repositories-6366F1?style=for-the-badge&logo=github"/>
 </a>
 
-Personalized learning platform combining web development with
-machine-learning recommendations.
+<br/><br/>
 
-**Highlights**
-
-- XGBoost recommendation engine
-- Personalized learning paths
-- AWS S3 media storage
-- MongoDB indexing
-- Optimized database queries
-
-`React` `Flask` `XGBoost` `AWS S3` `MongoDB`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💍 Virtual Jewelry Try-On
-
-<a href="https://github.com/Sakshi-shukla01/sakshigold">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-AR-based jewelry e-commerce application using real-time face landmark
-detection and geometric overlays.
-
-**Highlights**
-
-- MediaPipe Face Mesh
-- Canvas-based rendering
-- Real-time jewelry overlay
-- Gold price integration
-- E-commerce workflow
-
-`PHP` `MySQL` `MediaPipe` `JavaScript`
+<sub>UPI Fraud Detection, E-Learning Dashboard, and Virtual Jewelry Try-On
+are still on the profile — just not pinned right now.</sub>
 
 </td>
 
@@ -256,7 +269,7 @@ detection and geometric overlays.
 
 </div>
 
-**Focus:**  
+**Focus:**
 Machine Learning · LLM Applications · RAG · Recommendation Systems ·
 Fraud Detection · Model Evaluation · ML Experiment Tracking
 
@@ -417,3 +430,4 @@ Distributed Systems
 MLOps
 Cloud Computing
 Full-Stack Development
+```
