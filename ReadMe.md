@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Sakshi-shukla01.png" width="120" style="border-radius:50%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header"/>
 
