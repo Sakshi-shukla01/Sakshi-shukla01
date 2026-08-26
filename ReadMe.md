@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi, I'm Sakshi Shukla 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Sakshi%20Shukla&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Engineer&descAlignY=55&descSize=20"/>
 
-### Full-Stack & AI Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Engineer;ML+%2B+Web+Engineering;Research+Intern+%40+ARDE%2C+DRDO;Building+Production-Ready+Systems;Exploring+LangChain+%2B+RAG" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=ML+%2B+Web+Engineering;Research+Intern+%40+ARDE%2C+DRDO;Building+Production-Ready+Systems;Exploring+LangChain+%2B+RAG" alt="Typing SVG" />
 
 <br/>
 
@@ -20,6 +18,10 @@
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
+<a href="https://discord.gg/ywzvat84t">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
 <a href="mailto:sakshishukla1008@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -30,7 +32,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
 ## 👩‍💻 About Me
 
@@ -43,8 +45,9 @@ software engineering, machine learning, and real-world applications.
 - 🧠 Exploring **LLMs, LangChain & RAG**
 - ⚙️ Interested in backend architecture, APIs and distributed systems
 - 🚀 I prefer building and deploying real systems over keeping everything inside notebooks
+- 💬 Chat with the community on **[Discord](https://discord.gg/ywzvat84t)**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
 ## 📡 Live GitHub Snapshot
 
@@ -58,49 +61,47 @@ software engineering, machine learning, and real-world applications.
 </div>
 
 <div align="center">
-<sub>⚡ These badges pull live from the GitHub API every time this page loads, so the numbers stay current on their own.</sub>
+<sub>⚡ Live from the GitHub API on every page load — no hardcoded numbers.</sub>
 </div>
 
-> **Note on private repos:** GitHub doesn't expose a private-repo count publicly for any account (yours or anyone else's) — that number is only visible to you when logged in, via a personal access token. It can't be shown on a public profile README for privacy reasons.
+> **On private repos:** GitHub never exposes a private-repo *count* on a public profile, for you or anyone — that field only exists behind your own login. What a public README *can* show is your private **contributions** (commits/PRs/issues) rolled into the totals below, without naming the repos. That's the `count_private=true` stat card underneath.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
-## 📊 GitHub Stats & Languages
+## 📊 Stats, Languages, Commits & PRs
 
-<details open>
-<summary><b>Click to collapse / expand</b></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&rank_icon=github"/>
 
-<div align="center">
+<sub>`include_all_commits=true` → lifetime commit count, not just this year.<br/>`count_private=true` → private commits/PRs/issues folded into totals.</sub>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sakshi-shukla01&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&rank_icon=github" height="170"/>
+</td>
+<td width="50%" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=10" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshi-shukla01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=10"/>
 
-</div>
+<sub>Every language across every public repo, weighted by bytes of code.</sub>
 
-<br/>
-
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sakshi-shukla01&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"/>
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sakshi-shukla01&theme=tokyonight&no-frame=true&column=3&margin-w=8&margin-h=8&row=2"/>
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sakshi-shukla01&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8"/>
-
-</div>
-
-> `count_private=true` on the stats card adds your private-repo *contributions* (commits/PRs/issues) into the totals without ever naming or exposing the private repos themselves — that's the closest a public README can get to "every detail."
-
-</details>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
 <div align="center">
 
@@ -108,9 +109,9 @@ software engineering, machine learning, and real-world applications.
 
 </div>
 
-> All figures above are generated live from GitHub/public repository data — treat them as GitHub metrics, not manually maintained numbers.
+> All stats on this page are generated live from GitHub/public repository data — treat them as GitHub metrics, not manually maintained numbers.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
 ## 🔬 Research Experience
 
@@ -128,7 +129,7 @@ armament and ammunition systems.
 
 `Applied Engineering` `Research` `Machine Learning` `Simulation` `Software Engineering`
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
 # 📌 Pinned Projects
 
@@ -235,7 +236,7 @@ are still on the profile — just not pinned right now.</sub>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
 # 🛠️ Tech Stack
 
@@ -361,7 +362,7 @@ Fraud Detection · Model Evaluation · ML Experiment Tracking
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
 # 🏆 Achievements
 
@@ -378,7 +379,7 @@ Fraud Detection · Model Evaluation · ML Experiment Tracking
 
 </details>
 
----
+<br/>
 
 # 📜 Certifications
 
@@ -396,7 +397,7 @@ Fraud Detection · Model Evaluation · ML Experiment Tracking
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
 # 📚 Currently Learning
 
@@ -416,7 +417,7 @@ Fraud Detection · Model Evaluation · ML Experiment Tracking
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
 # 📈 What I'm Interested In
 
@@ -431,3 +432,5 @@ MLOps
 Cloud Computing
 Full-Stack Development
 ```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer"/>
