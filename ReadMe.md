@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="https://github.com/Sakshi-shukla01.png" width="120" style="border-radius:50%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header"/>
 
@@ -17,6 +18,10 @@
 
 <a href="https://linkedin.com/in/sakshishukla1008">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_.sakshi._.shukla.__/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://discord.gg/ywzvat84t">
@@ -97,6 +102,12 @@ program.
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSakshi-shukla01&label=Following&query=%24.following&color=6366F1&style=for-the-badge&logo=github"/>
 
 </div>
+
+<div align="center">
+<sub>⚡ Live from the GitHub API on every page load — no hardcoded numbers.</sub>
+</div>
+
+> **On private repos:** GitHub never exposes a private-repo *count* on a public profile — that field only exists behind your own login. The `count_private=true` stat card below folds in private commits/PRs/issues instead, without naming the repos.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6366F1&height=3&section=header"/>
 
