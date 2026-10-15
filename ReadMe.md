@@ -8,7 +8,7 @@
 <p>
 <a href="https://linkedin.com/in/sakshishukla1008"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sakshishukla1008@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://x.com/SakshiShuk17073"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="https://x.com/sakshi_shukla80"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
 <a href="https://www.instagram.com/_.sakshi._.shukla.__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://discord.gg/ywzvat84t"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Sakshi-shukla01&style=flat-square&color=6366f1&label=Profile+views"/>
